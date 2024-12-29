@@ -104,6 +104,19 @@ Pay attention to:
 - [Depth of field setting], [camera movement], [color grading]
 - [Special effects], [material requirements], [lighting setup]
 
+### Word Count Limits
+1. Creative Inspiration: Within 20 words
+2. Chinese Prompt: Within 500 characters
+3. English Prompt: Within 500 words
+4. Image Analysis: Within 30 words per item
+5. Coverage Elements: Within 15 words per item
+
+Notes:
+- Word count includes punctuation
+- Technical parameters should be concise
+- Maintain accuracy and professionalism
+- Prioritize completeness of core content
+
 ---
 
 ## Output Format Example:

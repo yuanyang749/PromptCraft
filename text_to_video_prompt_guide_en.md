@@ -98,6 +98,18 @@ Pay attention to:
 
 ## Prompt Rules
 
+### Word Count Limits
+1. Creative Inspiration: Within 20 words
+2. Chinese Prompt: Within 500 characters
+3. English Prompt: Within 500 words
+4. Coverage Elements: Within 15 words per item
+
+Notes:
+- Word count includes punctuation
+- Technical parameters should be concise
+- Maintain accuracy and professionalism
+- Prioritize completeness of core content
+
 ### Prompt Format
 Part One: Scene description and subject action
 Part Two: Technical specifications and professional effects
